@@ -1,0 +1,2 @@
+[console_scripts]
+test_node = serial_test.test_node_main:main
